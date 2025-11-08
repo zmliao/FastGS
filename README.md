@@ -1,8 +1,6 @@
 <div align="center">
 <h1>FastGS: Training 3D Gaussian Splatting in 100 Seconds</h1> 
 
-<div align="center">
-
 [🌐 Homepage](https://fastgs.github.io/) | [📄 Paper](https://arxiv.org/abs/2511.04283)
 
 </div>
