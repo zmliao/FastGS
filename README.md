@@ -35,7 +35,7 @@ FastGS is a **general acceleration framework** that supercharges 3D Gaussian Spl
 
 ## 🎯 Quick Facts
 
-| Feature | FastGS | Traditional Methods |
+| Feature | FastGS | Previous Methods |
 |---------|---------|---------------------|
 | Training Time | **100 seconds** | 5-30 minutes |
 | Gaussian Efficiency | ✅ **Strict Control** | ❌ Redundant Growth |
